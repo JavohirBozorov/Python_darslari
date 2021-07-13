@@ -2,7 +2,7 @@
 """
 Created on Fri Jul  9 08:51:28 2021
 
-12dars_xatolar_bn_ishlash
+12dars_xatolar_bilan_ishlash
 
 @author: Javohir Bozorov
 """
