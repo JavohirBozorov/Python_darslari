@@ -74,3 +74,4 @@ nonushta = list(nonushta)
 nonushta.insert(0,'qaymoq va non')
 nonushta = tuple(nonushta)
 print(nonushta)
+

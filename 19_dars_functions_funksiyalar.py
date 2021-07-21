@@ -56,6 +56,7 @@ Created on Mon Jul 19 06:54:36 2021
 #    print(f"Assalomu alaykum, {ism.title()}!")
 #print(salom_ber("hasan"))
     
+#UYGA_VAZIFALAR
 
 #1.Foydalanuvchi ismi va yoshini so'rab, uning tug'ilgan yilini hisoblaydigan 
  #funksiya yozing.
